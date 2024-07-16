@@ -28,16 +28,20 @@ The program converts temperatures between Celsius, Fahrenheit, and Kelvin. Users
 STRUCTURE:
 
 1.	Functions:
-   
-      o	celsiusToOthers(double temp): Converts a temperature from Celsius to both Fahrenheit and Kelvin.
+
+    o `celsiusToOthers(double temp)`: Converts a temperature from Celsius to both Fahrenheit and Kelvin.
   	
-      o	fahrenheitToOthers(double temp): Converts a temperature from Fahrenheit to both Celsius and Kelvin.
+    o `fahrenheitToOthers(double temp)`: Converts a temperature from Fahrenheit to both Celsius and Kelvin.
   	
-      o	kelvinToOthers(double temp): Converts a temperature from Kelvin to both Celsius and Fahrenheit.
+    o `kelvinToOthers(double temp)`: Converts a temperature from Kelvin to both Celsius and Fahrenheit.
   	
 
    
-2.	Main Function:
+     
+  	
+
+   
+3.	Main Function:
 	
      o	Displays a menu for the user to select the temperature scale of the input temperature.
   	
